@@ -27,6 +27,13 @@ Install the AWS SDK for .NET by running the following:
 
 ```shell
 dotnet add package AWSSDK.SimpleNotificationService
+
+```
+
+Install the package AWSSDK.Extensions.NETCore.Setup so that you can use the service builder's extension method to add the SNS service.
+
+```shell
+dotnet add package AWSSDK.Extensions.NETCore.Setup
 ```
 
 #### 3. Setup AWS Credentials:
