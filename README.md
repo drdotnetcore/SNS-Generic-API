@@ -1,15 +1,16 @@
 # SNS-Generic-API
 This is an Amazon AWS API written in C# .NET 7.  It's purpose is to be called from any client software without having to implement time and time again the code that makes it work.  That way it can be added to any project that can call an API without knowing at the client how it is implemented.
 
-### Prerequisites:
-- .NET SDK 7.0
+### Prereqs:
+- .NET SDK 7.0 or 6 with LTS support.  Bear in mind though that there are slight differences.
 - AWS SDK for .NET (install it via NuGet package manager)
-- An AWS account with access to SNS, and IAM credentials.
-- An SNS topic created on AWS, and an email subscription confirmed to that topic.
+- An AWS account with access to SNS, and IAM credentials.  You must do this yourself, out of scope of this project.
+- You need to create an SNS topic and register and confirm an email so that the messages go out.  You can elaborate on this and create an application for people to subscribe to the notifications and even 
+create your own topics, etc.
 
-### Steps:
+### These are the steps:
 
-#### 1. Create a New ASP.NET Core Web API Project:
+#### 1. Create the Web API project:
 
 ```shell
 dotnet new webapi -n SnsNotificationApi
@@ -36,9 +37,9 @@ Install the package AWSSDK.Extensions.NETCore.Setup so that you can use the serv
 dotnet add package AWSSDK.Extensions.NETCore.Setup
 ```
 
-#### 3. Setup AWS Credentials:
+#### 3. Make the AWS Credentials available to the application;
 
-For development purposes, you can store your AWS IAM credentials in a file named `appsettings.json` (ensure this file is never added to version control for security reasons):
+We are going to place them in a file called `appsettings.json` (make sure you don't have this file available anywhere where the settings can be grabbed from source control make sure it is added to .gitignore so that it is never exposed.):
 
 ```json
 {
