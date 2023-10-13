@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xU9+UrOSD+SmYWNJBJnxvajEOU73vhnbPhpb/ewZ9BQ=",
+  "Source": "SnsNotificationApi",
+  "BasePath": "_content/SnsNotificationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

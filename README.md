@@ -51,7 +51,7 @@ We are going to place them in a file called `appsettings.json` (make sure you do
 }
 ```
 
-In production, you'll want to utilize a more secure method for managing AWS credentials such as IAM roles or secret managers.
+Once you go to production, you will utilize a more secure method for managing AWS credentials such as  secret managers.  Do not skimp on security.  What's the point on learning how to do things wrong, right?
 
 #### 4. Implementing the API:
 

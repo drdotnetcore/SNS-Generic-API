@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G6l9KGmWn9AHXdh6rKzHWRGgOAQU9siyE93yJzumK+vhVmLgi4CNi0RppA2EKncF+JTB9JBAoc7JXzAVgyQQ4w==",
+  "dgSpecHash": "e3FgHhwLYvGdCAkpK2pSkj5rlOKxtKfoER0r+Z10zx/7E2MNMMJXVta3bPtq8UELWTPE1PMAT8hOtUNwd3ad6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj",
+  "projectFilePath": "c:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jcmar\\.nuget\\packages\\awssdk.core\\3.7.204.1\\awssdk.core.3.7.204.1.nupkg.sha512",
     "C:\\Users\\jcmar\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.7\\awssdk.extensions.netcore.setup.3.7.7.nupkg.sha512",

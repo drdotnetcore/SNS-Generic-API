@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj": {}
+    "c:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj": {
+    "c:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj",
+        "projectUniqueName": "c:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj",
         "projectName": "SnsNotificationApi",
-        "projectPath": "C:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj",
+        "projectPath": "c:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\SnsNotificationApi.csproj",
         "packagesPath": "C:\\Users\\jcmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\obj\\",
+        "outputPath": "c:\\Users\\jcmar\\Desktop\\Portfolio\\STRAT\\SNS-Generic-API\\SnsNotificationApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
